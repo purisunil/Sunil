@@ -1,0 +1,6 @@
+name=input("enter the string")
+text1=input("enter the string to change ")
+text2=input("enter the string")
+name1=(name.replace(text1,text2))
+print(name1)
+print(name1.upper())
